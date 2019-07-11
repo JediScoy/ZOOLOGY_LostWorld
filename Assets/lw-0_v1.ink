@@ -1,3 +1,23 @@
+#title: Lost World
+#author: Master Scoy
+-> Preface
+=== Preface ===
+#audio: fx-valleys
+<em>This story takes place in <em>Regio Scientiae: A Land of Understanding. Its a world of magic and steampunk, and a place for you to develop grit and explore curiosities. The quest narratives maybe done solo. However, they are best experienced the first time as playful interaction with the game master and neighboring, real life players.
+
+Welcome weary adventure!
+
+->StartMenu
+
+= StartMenu
++ [PRESS START] -> EpisodeONE.Scene1
+
+-> DONE
+
+==EpisodeONE===
+=Scene1
+->DONE
+
 VAR PROT = "AROUND THE WORLD"
 VAR CH1T = "A TYPHOON AND UNCHARTED ISLAND"
 VAR CH2T = "A NEW SOCIETY AT GRANITE HOUSE"
@@ -216,8 +236,8 @@ LOST WORLD
 // STORY DIALOGUE
 == TravelType ==
 Choose a traveling vessel
-+ Baloon
-+ Schooner
++ Baloon ->DONE
++ Schooner ->DONE
 
 == Balloon ===
 -> DONE
